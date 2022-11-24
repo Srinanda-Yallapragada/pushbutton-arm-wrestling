@@ -1,4 +1,4 @@
-<h1 align="center"> Push-Button Armwrestling - Cheapest Hardware Hack Winner @ HackUMass </h1> <br>
+<h1 align="center"> Push-Button Armwrestling - Cheapest Hardware Hack Winner @ HackUMass X (Novermber 2022)</h1> <br>
 
 ![demo image](https://github.com/Srinanda-Yallapragada/pushbutton-arm-wrestling/blob/main/PushButtonArmWrestling.jpeg?raw=true)
 
