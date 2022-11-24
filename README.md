@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Every wanted to try arm wrestling, but you have weak arms?
+Ever wanted to try arm wrestling, but you have weak arms?
 Are you a pro gamer who knows how to mash a button?
 Gamers and weaklings rejoice, because we have a solution for you! Using our uniquely crafted Arduino setup, we can use a
 Servo motor to simulate an arm wrestling match. All you have to do is mash the buttons!
@@ -50,4 +50,4 @@ Thanks to HackUMass 2022 for hosting this event and providing us with the hardwa
 
 ## Lore
 
-At the beginning of all, there were two factions. The button Tappers, and the click buttoners. After being at their throats for over 300 decades, a fragile treaty was signed, and the open war became a quiet one. They disagreed on the most essential artifacts of life. Hair styles, fighting styles, taps vs clicks, green vs blue. Their differences never end, and now you have been dragged into their silent war.... 
+At the beginning of all, there were two factions. The button Tappers, and the click buttoners. After being at their throats for over 300 decades, a fragile treaty was signed, and the open war became a quiet one. They disagreed on the most essential artifacts of life. Hair styles, fighting styles, taps vs clicks, green vs blue. Their differences never end, and now you have been dragged into their silent war.... the conflict continues, through armwrestling!
