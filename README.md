@@ -43,7 +43,7 @@ Some of the notable feature are
 * Up to 3 players at a time! Two adversaries and a joker. 
 * Hidden game mechanics! Use your wits to play with tactics.
 
-Read more at [devpost link](https://devpost.com/software/pushbutton-arm-wrestling)
+Read more at [our devpost](https://devpost.com/software/pushbutton-arm-wrestling)
 
 
 ## Acknowledgments
