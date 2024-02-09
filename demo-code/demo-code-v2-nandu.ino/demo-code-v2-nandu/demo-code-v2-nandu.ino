@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-// try to use mutexes to solve the problem, but no mutex library because arduino weak as shit and we cannot have nice things in life.
+// try to use mutexes to solve the problem, but no mutex library in arduino.
 
 
 // constants won't change. They're used here to set pin numbers:
